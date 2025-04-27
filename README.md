@@ -55,8 +55,8 @@ For demonstration purposes, a small sample dataset is provided in the `dataset/`
 
 If you wish to reproduce full-scale experiments, please refer to:
 - [Ton-IoT](https://research.unsw.edu.au/projects/toniot-datasets) for IP traffic
-- [IoT-23](https://www.stratosphereips.org/datasets-iot23)) for IP traffic
-- [Carhacking](https://ocslab.hksecurity.net/Datasets/car-hacking-dataset)) for CAN bus attacks
+- [IoT-23](https://www.stratosphereips.org/datasets-iot23) for IP traffic
+- [Carhacking](https://ocslab.hksecurity.net/Datasets/car-hacking-dataset) for CAN bus attacks
 - [CIC-IoV](https://www.unb.ca/cic/datasets/iov-dataset-2024.html) for CAN bus attacks
 
 
