@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper:
 > **Citation**:  
 > Jie Cao, Zelin Zhao, Jianbing Ni, and Mohammad Zulkernine.  
 > *HyFIDS: Hybrid Frequency-Aware Lightweight Intrusion Detection for Internet of Vehicles.*  
-> [Under review of IEEE GlobeCom 2025].
+> [Accepted by IEEE GlobeCom 2025].
 
 ## Overview
 
