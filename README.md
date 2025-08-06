@@ -10,7 +10,7 @@ This repository contains the official implementation of the paper:
    booktitle = {Proceedings of the IEEE Global Communications Conference (GLOBECOM)},
    year      = {2025},
    note      = {Accepted for publication}}
-
+```
 
 ## Overview
 
