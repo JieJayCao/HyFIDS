@@ -3,12 +3,13 @@
 This repository contains the official implementation of the paper:  
 **HyFIDS: Hybrid Frequency-Aware Lightweight Intrusion Detection for Internet of Vehicles**.
 
-> @inproceedings{Cao2025HyFIDS,
->   author    = {Cao, Jie and Zhang, Zeling and Ni, Jianbing and Zulkernine, Mohammad},
->   title     = {{HyFIDS: Hybrid Frequency-Aware Lightweight Intrusion Detection for Internet of Vehicles}},
->   booktitle = {Proceedings of the IEEE Global Communications Conference (GLOBECOM)},
->   year      = {2025},
->   note      = {Accepted for publication}}
+```bibtex
+@inproceedings{Cao2025HyFIDS,
+   author    = {Cao, Jie and Zhang, Zeling and Ni, Jianbing and Zulkernine, Mohammad},
+   title     = {{HyFIDS: Hybrid Frequency-Aware Lightweight Intrusion Detection for Internet of Vehicles}},
+   booktitle = {Proceedings of the IEEE Global Communications Conference (GLOBECOM)},
+   year      = {2025},
+   note      = {Accepted for publication}}
 
 
 ## Overview
